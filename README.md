@@ -13,7 +13,7 @@ A função recebe como parâmetro a quantidade de **vitórias** e **derrotas**, 
 - **Variáveis** — para armazenar o saldo e o resultado da função
 - **Operadores** — para realizar o cálculo do saldo de partidas
 - **Funções** — para encapsular a lógica de cálculo e classificação
-- **Estruturas de decisão** — `switch` para determinar o nível do jogador
+- **Estruturas de decisão** — `switch || if/else if` para determinar o nível do jogador
 
 ## 📤 Saída esperada
 
